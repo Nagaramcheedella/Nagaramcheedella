@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nagaramcheedella
-- 👀 I’m interested in RTOS
-- 🌱 I’m currently learning Kernel Modules and LINUX Device Drivers
-- 💞️ I’m looking to collaborate on Linux related projects
+- 👀 I’m interested in DATA SCIENCE and ML
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me nagaram1997cheedella@gmail.com
 
 <!---
